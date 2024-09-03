@@ -32,8 +32,8 @@ pip install numpy matplotlib
 ## Usage
 
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+
+git clone https://github.com/siyamsiza/Brownian_Motion_Simulation_In_Python
 
 
 ## Code Implementation
